@@ -1,5 +1,5 @@
 name: Video Mistake
-description: File an issue when Patrick made a mistake in the video.
+description: File an issue when Ciara made a mistake in the video.
 labels: ["video-bug"]
 body:
   - type: markdown
@@ -14,7 +14,7 @@ body:
       description: Which Section is this an issue for?
       multiple: false
       options:
-        - Section 1 | Blockchain Basics
+        - Section 1 | Zero-Knowledge Fundamentals
         - Other (please describe)
     validations:
       required: true
@@ -22,7 +22,7 @@ body:
     attributes:
     attributes:
       label: Could you please leave a link to the Cyfrin Updraft Lesson (or YouTube video timestamp) where this error occurs? (You can right click a video and "copy video URL at current time")
-      placeholder: "https://updraft.cyfrin.io/courses/blockchain-basics/basics/welcome-to-updraft"
+      placeholder: "https://updraft.cyfrin.io/courses/kero-knowledge-fundamentals/fundamentals/introduction"
   - type: textarea
     attributes:
       label: Describe the bug
