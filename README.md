@@ -100,17 +100,15 @@ Because of all this, I have added alternatives to each section where we suggest 
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
-<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
-
 # Thank you
 
 Thanks to everyone who is taking, participating in, and working on this course. It's been a passion project and a data dump of everything I've learnt in the web3 space to get you up to speed quickly. Also, a big thank you to Cyfrin & Chain Accel for encouraging this course to come to light, and many, many, many people from the community.
 
 And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible!
 
-<a href="https://github.com/cyfrin/security-and-auditing-full-course-s23/graphs/contributors">
+<a href="https://github.com/cyfrin/zero-knowledge-fundamentals-cu/graphs/contributors">
 
-<img src="https://contrib.rocks/image?repo=cyfrin/foundry-full-course-cu" />
+<img src="https://contrib.rocks/image?repo=cyfrin/zero-knowledge-fundamentals-cu" />
 
 </a>
 
@@ -121,5 +119,3 @@ Cyfrin Updraft content is open-sourced [licensed as GPLv3](https://github.com/cy
 [![Cyfrin Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cyfrinupdraft)
 [![Cyfrin YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CyfrinAudits)
 [![Cyfrin LinkedIn](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/cyfrin-updraft/)
-
-<p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
