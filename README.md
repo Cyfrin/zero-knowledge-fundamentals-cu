@@ -57,7 +57,7 @@ Please refer to this for an in-depth explanation of the content:
 
 <p align="center">
 <a href="" target="_blank">
-        <img src="./thumbnails/2025-zkf.png" width="750" alt="Zero-Knowledge Fundamentals Course">
+        <img src="./thumbnails/zk-fundies.png" width="750" alt="Zero-Knowledge Fundamentals Course">
       </a>
 </p>
 
@@ -72,9 +72,16 @@ Cyfrin Updraft Courses:
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk.
 
+# Prerequisites
+
+- [Blockchain Basics](https://updraft.cyfrin.io/courses/blockchain-basics)
+  - Understanding of blockchain systems
+  - Basic understanding of hashing
+
 # Resources For This Course
 
-- AI Frens
+- Watch on [Cyfrin Updraft](https://updraft.cyfrin.io)
+- AI
   - [ChatGPT](https://chat.openai.com/)
     - Just know that it will often get things wrong, but it's very fast!
   - [Phind](https://www.phind.com/)
@@ -88,9 +95,47 @@ Cyfrin Updraft Courses:
 
 # Zero-Knowledge Fundamentals Section 1: What is a Zero-Knowledge Proof?
 
-## What is a Zero-Knowledge Proof?
+## Introduction
+
+_[⌨️ Introduction]()_
+
+## What is a zero-knowledge proof?
 
 _[⌨️ What is a Zero-Knowledge Proof?]()_
+
+- [Helpful zero-knowledge proofs blog post](https://www.cyfrin.io/blog/what-is-a-zero-knowledge-proof-a-practical-guide-for-programmers)
+
+## Interactive vs non-interactive zero-knoweldge proofs
+
+_[⌨️ Interactive vs non-interactive ZKPs]()_
+
+- [The Ali Baba cave](https://pages.cs.wisc.edu/~mkowalcz/628.pdf)
+
+## ZK terminology
+
+_[⌨️ ZK terminology]()_
+
+## The trusted setup
+
+_[⌨️ The trsuted setup]()_
+
+- [Vitalik's blog post on the trsuted setup](https://vitalik.eth.limo/general/2022/03/14/trustedsetup.html#:~:text=Many%20cryptographic%20protocols%2C%20especially%20in,some%20cryptographic%20protocol%20is%20run.)
+
+## ZKP requirements
+
+_[⌨️ ZKP requirements]()_
+
+## ZK in practice
+
+_[⌨️ ZK in practice]()_
+
+## Example ZK projects
+
+_[⌨️ Example ZK projects]()_
+
+## Summary
+
+_[⌨️ Summary]()_
 
 # Disclosures
 
@@ -108,7 +153,7 @@ And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible
 
 <a href="https://github.com/cyfrin/zero-knowledge-fundamentals-cu/graphs/contributors">
 
-<img src="https://contrib.rocks/image?repo=cyfrin/zero-knowledge-fundamentals-cu" />
+<img src="./thumbnails/zk-fundies.png" />
 
 </a>
 
