@@ -125,7 +125,7 @@ _[⌨️ The trsuted setup]()_
 
 _[⌨️ ZKP requirements]()_
 
-## ZK in practice
+## ZK in practice
 
 _[⌨️ ZK in practice]()_
 
