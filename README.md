@@ -95,7 +95,7 @@ Cyfrin Updraft Courses:
 
 # Zero-Knowledge Fundamentals Section 1: What is a Zero-Knowledge Proof?
 
-## Introduction
+## Introduction
 
 _[⌨️ Introduction]()_
 
