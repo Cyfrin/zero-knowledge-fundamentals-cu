@@ -122,6 +122,7 @@ _[⌨️ ZK terminology]()_
 
 Helpful resource that helped research for this video:
 - [Article by Santiago Palladino A beginner's intro to coding zero-knowledge proofs](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
+- [This QAPs article by Vitalik Buterin explains the witness well in context](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
 
 ## The trusted setup
 
@@ -180,7 +181,8 @@ Thanks to everyone who is taking, participating in, and working on this course. 
 
 A special thanks to:
 - [RKM](https://x.com/rkm0959) from [Succinct Labs](https://www.succinct.xyz/) for the awesome lessons and learning resources.
-- Jarrod Watts' [video on ZK proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this video was fundamental in the development of this course.
+- Jarrod Watts' [video on ZK proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this video was fundamental (hehe, see what I did there) in the development of this course.
+- Vitalk Buterin's article series on ZK proofs.
 
 And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible!
 
