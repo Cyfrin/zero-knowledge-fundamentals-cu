@@ -165,8 +165,6 @@ _[⌨️ Example ZK projects]()_
 
 _[⌨️ Summary]()_
 
-Big shout out to [Porter Adam's](https://x.com/portport255?lang=en) from [ZKsync](https://www.zksync.io/) for reviewing this content and answering all my questions in preparation for this course! Thanks Porter:) 
-
 # Disclosures
 
 Transparency is important! So we want to disclose any potential conflicts that might have affected my judgement so you can pick tools that are right for you. Patrick is co-founder of Alpha Chain, a blockchain infrastructure company. Alpha Chain runs **Chainlink, Ethereum, Binance, Polygon, Harmony, Solana, Moonbeam, and Moonriver blockchain services.** Alpha Chain often works with Alchemy and receives discounted services. Patrick is the co-founder of Cyfrin, and they do smart contract security & auditing services. Patrick is also the co-founder of Chain Accel, who is an advisor on the Peeranha project.
@@ -182,7 +180,8 @@ Thanks to everyone who is taking, participating in, and working on this course. 
 A special thanks to:
 - [RKM](https://x.com/rkm0959) from [Succinct Labs](https://www.succinct.xyz/) for the awesome lessons and learning resources.
 - Jarrod Watts' [video on ZK proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this video was fundamental (hehe, see what I did there) in the development of this course.
-- Vitalk Buterin's article series on ZK proofs.
+- Vitalik Buterin's article series on ZK proofs.
+- [Porter Adam's](https://x.com/portport255?lang=en) from [ZKsync](https://www.zksync.io/) for his suppoort in my research and his [AWESOME ZK live stream series](https://www.youtube.com/watch?v=-2qHqfqPeR8&t=2566s)
 
 And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible!
 
