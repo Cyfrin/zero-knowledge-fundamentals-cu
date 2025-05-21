@@ -36,7 +36,9 @@
     <br />
 </p>
 
-Welcome to the repository for the Zero-Knowledge Fundamentals Course
+Welcome to the repository for the Zero-Knowledge Fundamentals Course. This course is a high-level introduction to zero-knowledge proofs (ZKPs): what they are and why they are really cool! 
+
+This course will help you go from having no idea what ZKPs to being able to understand what they are conceptually. It is intended as a preliminary resource for both devs and non-devs prior to learning any math or practical coding.
 
 </div>
 
@@ -70,8 +72,6 @@ Cyfrin Updraft Courses:
 
 [YouTube Link]()
 
-> ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk.
-
 # Prerequisites
 
 - [Blockchain Basics](https://updraft.cyfrin.io/courses/blockchain-basics)
@@ -103,13 +103,18 @@ _[⌨️ Introduction]()_
 
 _[⌨️ What is a Zero-Knowledge Proof?]()_
 
+- Big thanks to Jarrod Watts for [his video on zero-knowledge proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM)!
+- [Ethereum article on ZK Proofs](https://ethereum.org/en/zero-knowledge-proofs/)
 - [Helpful zero-knowledge proofs blog post](https://www.cyfrin.io/blog/what-is-a-zero-knowledge-proof-a-practical-guide-for-programmers)
+- [Another helpful video by CoinGecko](https://www.youtube.com/watch?v=e_Im2g2xsAg)
+- [Porter Adam's video on ZKPs](https://www.youtube.com/watch?v=-2qHqfqPeR8)
 
 ## Interactive vs non-interactive zero-knoweldge proofs
 
 _[⌨️ Interactive vs non-interactive ZKPs]()_
 
 - [The Ali Baba cave](https://pages.cs.wisc.edu/~mkowalcz/628.pdf)
+- Big thanks to Jarrod Watts for [his video on zero-knowledge proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM)!
 
 ## ZK terminology
 
@@ -119,7 +124,15 @@ _[⌨️ ZK terminology]()_
 
 _[⌨️ The trsuted setup]()_
 
-- [Vitalik's blog post on the trsuted setup](https://vitalik.eth.limo/general/2022/03/14/trustedsetup.html#:~:text=Many%20cryptographic%20protocols%2C%20especially%20in,some%20cryptographic%20protocol%20is%20run.)
+- [Big thanks to Vitalik Buterin for his blog post on the trusted setup](https://vitalik.eth.limo/general/2022/03/14/trustedsetup.html#:~:text=Many%20cryptographic%20protocols%2C%20especially%20in,some%20cryptographic%20protocol%20is%20run.)
+
+## Proof of computation
+
+Quote from the [Noir](https://noir-lang.org/) website that makes things clearer:
+
+-  "Noir is a language for private and verifiable computing. It enables creating succinct proofs of successful program execution. "
+
+- [Vitalik's article on SNARKs for proof of computation](https://vitalik.eth.limo/general/2021/01/26/snarks.html)
 
 ## ZKP requirements
 
@@ -129,6 +142,10 @@ _[⌨️ ZKP requirements]()_
 
 _[⌨️ ZK in practice]()_
 
+- ZK circuit writing languages mentioned:
+  - [Noir](https://noir-lang.org/)
+  - [Circom](https://docs.circom.io/)
+
 ## Example ZK projects
 
 _[⌨️ Example ZK projects]()_
@@ -136,6 +153,8 @@ _[⌨️ Example ZK projects]()_
 ## Summary
 
 _[⌨️ Summary]()_
+
+Big shout out to [Porter Adam's](https://x.com/portport255?lang=en) from [ZKsync](https://www.zksync.io/) for reviewing this content and answering all my questions in preparation for this course! Thanks Porter:) 
 
 # Disclosures
 
@@ -148,6 +167,10 @@ Because of all this, I have added alternatives to each section where we suggest 
 # Thank you
 
 Thanks to everyone who is taking, participating in, and working on this course. It's been a passion project and a data dump of everything I've learnt in the web3 space to get you up to speed quickly. Also, a big thank you to Cyfrin & Chain Accel for encouraging this course to come to light, and many, many, many people from the community.
+
+A special thanks to:
+- [RKM](https://x.com/rkm0959) from [Succinct Labs](https://www.succinct.xyz/) for the awesome lessons and learning resources.
+- Jarrod Watts' [video on ZK proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this video was fundamental in the development of this course.
 
 And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible!
 
