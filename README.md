@@ -120,6 +120,9 @@ _[⌨️ Interactive vs non-interactive ZKPs]()_
 
 _[⌨️ ZK terminology]()_
 
+Helpful resource that helped research for this video:
+- [Article by Santiago Palladino A beginner's intro to coding zero-knowledge proofs](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
+
 ## The trusted setup
 
 _[⌨️ The trsuted setup]()_
@@ -138,6 +141,8 @@ Quote from the [Noir](https://noir-lang.org/) website that makes things clearer:
 
 _[⌨️ ZKP requirements]()_
 
+- Shout out to [RKM](https://x.com/rkm0959) from [Succinct Labs](https://www.succinct.xyz/) for the awesome lessons that helped in the development of this course but particularly this lesson.
+
 ## ZK in practice
 
 _[⌨️ ZK in practice]()_
@@ -145,6 +150,11 @@ _[⌨️ ZK in practice]()_
 - ZK circuit writing languages mentioned:
   - [Noir](https://noir-lang.org/)
   - [Circom](https://docs.circom.io/)
+
+Helpful resource on ZKPs for developers:
+- [A beginners into the coding ZKPS](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
+
+Again, S/O to [RKM](https://x.com/rkm0959) from [Succinct Labs](https://www.succinct.xyz/) who introduced me to the concept of the "backend" and "frontend" in the context of ZKPs.
 
 ## Example ZK projects
 
