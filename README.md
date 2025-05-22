@@ -103,18 +103,19 @@ _[⌨️ Introduction]()_
 
 _[⌨️ What is a Zero-Knowledge Proof?]()_
 
-- Big thanks to Jarrod Watts for [his video on zero-knowledge proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM)!
 - [Ethereum article on ZK Proofs](https://ethereum.org/en/zero-knowledge-proofs/)
 - [Helpful zero-knowledge proofs blog post](https://www.cyfrin.io/blog/what-is-a-zero-knowledge-proof-a-practical-guide-for-programmers)
 - [Another helpful video by CoinGecko](https://www.youtube.com/watch?v=e_Im2g2xsAg)
 - [Porter Adam's video on ZKPs](https://www.youtube.com/watch?v=-2qHqfqPeR8)
+- Big thanks to Jarrod Watts for [his video on zero-knowledge proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this was my first taste!
 
 ## Interactive vs non-interactive zero-knoweldge proofs
 
 _[⌨️ Interactive vs non-interactive ZKPs]()_
 
 - [The Ali Baba cave](https://pages.cs.wisc.edu/~mkowalcz/628.pdf)
-- Big thanks to Jarrod Watts for [his video on zero-knowledge proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM)!
+- [The ZK Podcast](https://open.spotify.com/episode/6GT105Xm2rJzntZjTrSRwC?si=TjYOcAs-TwmNQGtdjODusw) also has some awesome examples (including the wheere's Waldo example where I first heard it).
+- Jarrod Watts explains some examples in [his video on zero-knowledge proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM)!
 
 ## ZK terminology
 
@@ -128,7 +129,7 @@ Helpful resource that helped research for this video:
 
 _[⌨️ The trsuted setup]()_
 
-- [Big thanks to Vitalik Buterin for his blog post on the trusted setup](https://vitalik.eth.limo/general/2022/03/14/trustedsetup.html#:~:text=Many%20cryptographic%20protocols%2C%20especially%20in,some%20cryptographic%20protocol%20is%20run.)
+- Big thanks to Vitalik Buterin for [his blog post on the trusted setup](https://vitalik.eth.limo/general/2022/03/14/trustedsetup.html#:~:text=Many%20cryptographic%20protocols%2C%20especially%20in,some%20cryptographic%20protocol%20is%20run.). This video was researched using this awesome article.
 
 ## Proof of computation
 
