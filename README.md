@@ -190,7 +190,7 @@ Thanks to everyone who is taking, participating in, and working on this course. 
 
 **A special thanks to:**
 - [RKM](https://x.com/rkm0959) from [Succinct Labs](https://www.succinct.xyz/) for the awesome lessons and learning resources provided to the Cyfrin team.
-- Jarrod Watts' [video on ZK proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this video was fundamental (hehe, see what I did there) in the development of this course.
+- Jarrod Watts' [video on ZK proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this video was very helpful development of this course.
 - [RareSkills blog](https://www.rareskills.io/blog)
 - Vitalik Buterin's article series on ZK proofs.
 - [Porter Adam's](https://x.com/portport255?lang=en) from [ZKsync](https://www.zksync.io/) for his suppoort in my research and his [AWESOME ZK live stream series](https://www.youtube.com/watch?v=-2qHqfqPeR8&t=2566s)
