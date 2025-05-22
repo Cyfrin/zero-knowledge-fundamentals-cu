@@ -115,7 +115,7 @@ _[⌨️ What is a Zero-Knowledge Proof?](https://updraft.com/courses/fundamenta
 - [Helpful zero-knowledge proofs blog post](https://www.cyfrin.io/blog/what-is-a-zero-knowledge-proof-a-practical-guide-for-programmers)
 - [Another helpful video by CoinGecko](https://www.youtube.com/watch?v=e_Im2g2xsAg)
 - [Porter Adam's video on ZKPs](https://www.youtube.com/watch?v=-2qHqfqPeR8)
-- Big thanks to Jarrod Watts for [his video on zero-knowledge proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this was my first taste!
+- Big thanks to [Jarrod Watts](https://x.com/jarrodWattsDev) for [his video on zero-knowledge proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this was my first taste!
 
 ## Interactive vs non-interactive zero-knoweldge proofs
 
@@ -123,7 +123,7 @@ _[⌨️ Interactive vs non-interactive ZKPs](https://updraft.com/courses/fundam
 
 - [The Ali Baba cave](https://pages.cs.wisc.edu/~mkowalcz/628.pdf)
 - [The ZK Podcast](https://open.spotify.com/episode/6GT105Xm2rJzntZjTrSRwC?si=TjYOcAs-TwmNQGtdjODusw) also has some awesome examples (including the wheere's Waldo example where I first heard it).
-- Jarrod Watts explains some examples in [his video on zero-knowledge proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM)!
+- [Jarrod Watts](https://x.com/jarrodWattsDev) explains some examples in [his video on zero-knowledge proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM)!
 
 ## ZK terminology
 
@@ -190,7 +190,7 @@ Thanks to everyone who is taking, participating in, and working on this course. 
 
 **A special thanks to:**
 - [RKM](https://x.com/rkm0959) from [Succinct Labs](https://www.succinct.xyz/) for the awesome lessons and learning resources provided to the Cyfrin team.
-- Jarrod Watts' [video on ZK proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this video was very helpful development of this course.
+- [Jarrod Watts'](https://x.com/jarrodWattsDev) [video on ZK proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this video was very helpful development of this course.
 - [RareSkills blog](https://www.rareskills.io/blog)
 - Vitalik Buterin's article series on ZK proofs.
 - [Porter Adam's](https://x.com/portport255?lang=en) from [ZKsync](https://www.zksync.io/) for his suppoort in my research and his [AWESOME ZK live stream series](https://www.youtube.com/watch?v=-2qHqfqPeR8&t=2566s)
