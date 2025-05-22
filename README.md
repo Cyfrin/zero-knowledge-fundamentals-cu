@@ -97,11 +97,19 @@ Cyfrin Updraft Courses:
 
 ## Introduction
 
-_[⌨️ Introduction]()_
+_[⌨️ Introduction](https://updraft.com/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/course-navigation)_
+
+## Meet the instructor
+
+_[⌨️ Meet the instructor?](https://updraft.com/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/meet-the-instructor)_
+
+## Course navigation
+
+_[⌨️ Course navigation](https://updraft.com/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/course-navigation)_
 
 ## What is a zero-knowledge proof?
 
-_[⌨️ What is a Zero-Knowledge Proof?]()_
+_[⌨️ What is a Zero-Knowledge Proof?](https://updraft.com/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/zkp-overview)_
 
 - [Ethereum article on ZK Proofs](https://ethereum.org/en/zero-knowledge-proofs/)
 - [Helpful zero-knowledge proofs blog post](https://www.cyfrin.io/blog/what-is-a-zero-knowledge-proof-a-practical-guide-for-programmers)
@@ -111,7 +119,7 @@ _[⌨️ What is a Zero-Knowledge Proof?]()_
 
 ## Interactive vs non-interactive zero-knoweldge proofs
 
-_[⌨️ Interactive vs non-interactive ZKPs]()_
+_[⌨️ Interactive vs non-interactive ZKPs](https://updraft.com/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/interactive-vs-non-interactive)_
 
 - [The Ali Baba cave](https://pages.cs.wisc.edu/~mkowalcz/628.pdf)
 - [The ZK Podcast](https://open.spotify.com/episode/6GT105Xm2rJzntZjTrSRwC?si=TjYOcAs-TwmNQGtdjODusw) also has some awesome examples (including the wheere's Waldo example where I first heard it).
@@ -119,7 +127,7 @@ _[⌨️ Interactive vs non-interactive ZKPs]()_
 
 ## ZK terminology
 
-_[⌨️ ZK terminology]()_
+_[⌨️ ZK terminology](https://updraft.com/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/zk-terminology)_
 
 Helpful resource that helped research for this video:
 - [Article by Santiago Palladino A beginner's intro to coding zero-knowledge proofs](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
@@ -127,11 +135,13 @@ Helpful resource that helped research for this video:
 
 ## The trusted setup
 
-_[⌨️ The trsuted setup]()_
+_[⌨️ The trusted setup](https://updraft.com/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/trusted-setup)_
 
 - Big thanks to Vitalik Buterin for [his blog post on the trusted setup](https://vitalik.eth.limo/general/2022/03/14/trustedsetup.html#:~:text=Many%20cryptographic%20protocols%2C%20especially%20in,some%20cryptographic%20protocol%20is%20run.). This video was researched using this awesome article.
 
 ## Proof of computation
+
+_[⌨️ Proof of computation](https://updraft.com/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/proof-of-computation)_
 
 Quote from the [Noir](https://noir-lang.org/) website that makes things clearer:
 
@@ -141,13 +151,13 @@ Quote from the [Noir](https://noir-lang.org/) website that makes things clearer:
 
 ## ZKP requirements
 
-_[⌨️ ZKP requirements]()_
+_[⌨️ ZKP requirements](https://updraft.com/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/ZKP-requirements)_
 
 - Shout out to [RKM](https://x.com/rkm0959) from [Succinct Labs](https://www.succinct.xyz/) for the awesome lessons that helped in the development of this course but particularly this lesson.
 
 ## ZK in practice
 
-_[⌨️ ZK in practice]()_
+_[⌨️ ZK in practice](https://updraft.com/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/zk-in-practice)_
 
 - ZK circuit writing languages mentioned:
   - [Noir](https://noir-lang.org/)
@@ -160,11 +170,11 @@ Again, S/O to [RKM](https://x.com/rkm0959) from [Succinct Labs](https://www.succ
 
 ## Example ZK projects
 
-_[⌨️ Example ZK projects]()_
+_[⌨️ Example ZK projects](https://updraft.com/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/examples-zk-projects)_
 
 ## Summary
 
-_[⌨️ Summary]()_
+_[⌨️ Summary](https://updraft.com/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/summary)_
 
 # Disclosures
 
