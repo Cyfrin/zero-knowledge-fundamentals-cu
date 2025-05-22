@@ -4,16 +4,16 @@
 > 
 > [Moccasin/Vyper: https://github.com/Cyfrin/moccasin-full-course-cu](https://github.com/Cyfrin/moccasin-full-course-cu)
 
-[contributors-shield]: https://img.shields.io/github/contributors/cyfrin/zero-knowledge-fundamentals-cu.svg?style=for-the-badge
-[contributors-url]: https://github.com/cyfrin/zero-knowledge-fundamentals-cu/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/cyfrin/zero-knowledge-fundamentals-cu.svg?style=for-the-badge
-[forks-url]: https://github.com/cyfrin/zero-knowledge-fundamentals-cu/network/members
-[stars-shield]: https://img.shields.io/github/stars/cyfrin/zero-knowledge-fundamentals-cu.svg?style=for-the-badge
-[stars-url]: https://github.com/cyfrin/zero-knowledge-fundamentals-cu/stargazers
-[issues-shield]: https://img.shields.io/github/issues/cyfrin/zero-knowledge-fundamentals-cu.svg?style=for-the-badge
-[issues-url]: https://github.com/cyfrin/zero-knowledge-fundamentals-cu/issues
-[license-shield]: https://img.shields.io/github/license/cyfrin/zero-knowledge-fundamentals-cu.svg?style=for-the-badge
-[license-url]: https://github.com/cyfrin/zero-knowledge-fundamentals-cu/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/cyfrin/fundamentals-of-zero-knowledge-proofs-cu.svg?style=for-the-badge
+[contributors-url]: https://github.com/cyfrin/fundamentals-of-zero-knowledge-proofs-cu/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/cyfrin/fundamentals-of-zero-knowledge-proofs-cu.svg?style=for-the-badge
+[forks-url]: https://github.com/cyfrin/fundamentals-of-zero-knowledge-proofs-cu/network/members
+[stars-shield]: https://img.shields.io/github/stars/cyfrin/fundamentals-of-zero-knowledge-proofs-cu.svg?style=for-the-badge
+[stars-url]: https://github.com/cyfrin/fundamentals-of-zero-knowledge-proofs-cu/stargazers
+[issues-shield]: https://img.shields.io/github/issues/cyfrin/fundamentals-of-zero-knowledge-proofs-cu.svg?style=for-the-badge
+[issues-url]: https://github.com/cyfrin/fundamentals-of-zero-knowledge-proofs-cu/issues
+[license-shield]: https://img.shields.io/github/license/cyfrin/fundamentals-of-zero-knowledge-proofs-cu.svg?style=for-the-badge
+[license-url]: https://github.com/cyfrin/fundamentals-of-zero-knowledge-proofs-cu/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 <div align="center">
@@ -42,7 +42,7 @@ This course will help you go from having no idea what ZKPs to being able to unde
 
 </div>
 
-This repository houses course resources and [discussions](https://github.com/Cyfrin/zero-knowledge-fundamentals-cu/discussions) for the course.
+This repository houses course resources and [discussions](https://github.com/Cyfrin/fundamentals-of-zero-knowledge-proofs-cu/discussions) for the course.
 
 Please refer to this for an in-depth explanation of the content:
 
@@ -68,7 +68,7 @@ Please refer to this for an in-depth explanation of the content:
 
 Cyfrin Updraft Courses:
 
-- [Cyfrin Updraft - Zero Knowledge Fundamentals](https://updraft.cyfrin.io/courses/zero-knowledge-fundamentals)
+- [Cyfrin Updraft - Zero Knowledge Fundamentals](https://updraft.cyfrin.io/courses/fundamentals-of-zero-knowledge-proofs)
 
 [YouTube Link]()
 
@@ -198,7 +198,7 @@ Thanks to everyone who is taking, participating in, and working on this course. 
 
 And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible!
 
-<a href="https://github.com/cyfrin/zero-knowledge-fundamentals-cu/graphs/contributors">
+<a href="https://github.com/cyfrin/fundamentals-of-zero-knowledge-proofs-cu/graphs/contributors">
 
 <img src="./thumbnails/zk-fundies.png" />
 
