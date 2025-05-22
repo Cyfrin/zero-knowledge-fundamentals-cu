@@ -178,11 +178,13 @@ Because of all this, I have added alternatives to each section where we suggest 
 
 Thanks to everyone who is taking, participating in, and working on this course. It's been a passion project and a data dump of everything I've learnt in the web3 space to get you up to speed quickly. Also, a big thank you to Cyfrin & Chain Accel for encouraging this course to come to light, and many, many, many people from the community.
 
-A special thanks to:
-- [RKM](https://x.com/rkm0959) from [Succinct Labs](https://www.succinct.xyz/) for the awesome lessons and learning resources.
+**A special thanks to:**
+- [RKM](https://x.com/rkm0959) from [Succinct Labs](https://www.succinct.xyz/) for the awesome lessons and learning resources provided to the Cyfrin team.
 - Jarrod Watts' [video on ZK proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this video was fundamental (hehe, see what I did there) in the development of this course.
+- [RareSkills blog](https://www.rareskills.io/blog)
 - Vitalik Buterin's article series on ZK proofs.
 - [Porter Adam's](https://x.com/portport255?lang=en) from [ZKsync](https://www.zksync.io/) for his suppoort in my research and his [AWESOME ZK live stream series](https://www.youtube.com/watch?v=-2qHqfqPeR8&t=2566s)
+- [ZK Moon Math Manual](https://github.com/LeastAuthority/moonmath-manual)
 
 And thanks to the [Cyfrin](https://www.cyfrin.io/) team for making this possible!
 
