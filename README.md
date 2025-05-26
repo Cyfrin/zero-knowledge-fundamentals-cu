@@ -19,7 +19,7 @@
 <div align="center">
 <h1> Zero-Knowledge Fundamentals </h1>
 
-<p align="center"><strong>Learn zero-knowledge proof funamentals, and level up your career
+<p align="center"><strong>Learn zero-knowledge proof fundamentals, and level up your career
 </strong></p>
 
 [![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
@@ -117,7 +117,7 @@ _[⌨️ What is a Zero-Knowledge Proof?](https://updraft.cyfrin.io/courses/fund
 - [Porter Adam's video on ZKPs](https://www.youtube.com/watch?v=-2qHqfqPeR8)
 - Big thanks to [Jarrod Watts](https://x.com/jarrodWattsDev) for [his video on zero-knowledge proofs](https://www.youtube.com/watch?v=_MYpZQVZdiM) as this was my first taste!
 
-## Interactive vs non-interactive zero-knoweldge proofs
+## Interactive vs non-interactive zero-Knowledge proofs
 
 _[⌨️ Interactive vs non-interactive ZKPs](https://updraft.cyfrin.io/courses/fundamentals-of-zero-knowledge-proofs/fundamentals/interactive-vs-non-interactive)_
 
